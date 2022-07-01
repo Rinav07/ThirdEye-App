@@ -1,6 +1,8 @@
 # The Third-Eye App
 
-This app was submitted as a part of the final presentation given by my team (Rinav Gupta, Vedansh Arun and Kartik Bagri) in the countries first one of a kind CyberSecurity Hackathon - Hackmanthan organized by Chhattisgarh Police in collaboration with IIIT Naya Raipur.
+With just one system that is simple to use and intuitive for both the police authority and the public, **Third eye** is a decentralised and distributed cutting-edge security protocol that uses deep learning and artificial intelligence to track motor vehicles and Criminals via a modern CCTV network using Automated License Plate Recognition and real-time GPS tracking.
+
+This app was submitted as a part of the final presentation given by my team (@Rinav07 , Vedansh Arun and Kartik Bagri) in the countries first one of a kind CyberSecurity Hackathon - Hackmanthan organized by Chhattisgarh Police in collaboration with IIIT Naya Raipur.
 
 ## Getting Started
 
