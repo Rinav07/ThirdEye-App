@@ -7,6 +7,8 @@ This app was submitted as a part of the final presentation given by our team ([R
 
 Our team secured the First Position in this Hackathon and were awarded a cash prize of 1100$ 
 
+View our [Final's Presenation](https://www.canva.com/design/DAFE55ekfR8/egzMBBoukxmzr5wuqyX5mw/view?utm_content=DAFE55ekfR8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) here.
+
 ## About the App
 
 This crossplatform app(both Android and IOS) serves as a way for the police department and general public to use the Third Eye security system.
