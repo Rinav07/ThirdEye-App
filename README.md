@@ -3,6 +3,8 @@
 #### What is Third Eye?
 With just one system that is simple to use and intuitive for both the police authority and the public, _**Third eye**_ is a decentralised and distributed cutting-edge security protocol that uses deep learning and artificial intelligence to track motor vehicles and Criminals via a modern CCTV network using Automated License Plate Recognition and real-time GPS tracking.
 
+Visit The [Third Eye Website](https://third-eye.vercel.app/) to get the feel of our security system.
+
 This app was submitted as a part of the final presentation given by our team ([Rinav Gupta](https://github.com/Rinav07),[Vedansh Arun](https://github.com/VedanshArun) and [Kartik Bagri](https://github.com/kartikbagri)) in the country's first, one of a kind CyberSecurity Hackathon - _**Hackmanthan**_ organised by Chhattisgarh Police in collaboration with IIIT Naya Raipur.
 
 Our team secured the First Position in this Hackathon and were awarded a cash prize of 1100$ 
