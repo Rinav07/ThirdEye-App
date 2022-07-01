@@ -1,4 +1,4 @@
-# thirdeye
+# ThirdEyeApp
 
 A new Flutter project.
 
