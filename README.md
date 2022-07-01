@@ -1,19 +1,33 @@
 # The Third-Eye App
 
-With just one system that is simple to use and intuitive for both the police authority and the public, **Third eye** is a decentralised and distributed cutting-edge security protocol that uses deep learning and artificial intelligence to track motor vehicles and Criminals via a modern CCTV network using Automated License Plate Recognition and real-time GPS tracking.
+#### What is Third Eye?
+With just one system that is simple to use and intuitive for both the police authority and the public, _**Third eye**_ is a decentralised and distributed cutting-edge security protocol that uses deep learning and artificial intelligence to track motor vehicles and Criminals via a modern CCTV network using Automated License Plate Recognition and real-time GPS tracking.
 
-This app was submitted as a part of the final presentation given by my team ([Rinav Gupta](github.com/Rinav07) ,[Vedansh Arun](github.com/var.x) and [Kartik Bagri](github.com/kartikbagri)) in the countries first one of a kind CyberSecurity Hackathon - Hackmanthan organized by Chhattisgarh Police in collaboration with IIIT Naya Raipur.
+This app was submitted as a part of the final presentation given by our team ([Rinav Gupta](https://github.com/Rinav07),[Vedansh Arun](https://github.com/VedanshArun) and [Kartik Bagri](https://github.com/kartikbagri)) in the country's first, one of a kind CyberSecurity Hackathon - _**Hackmanthan**_ organised by Chhattisgarh Police in collaboration with IIIT Naya Raipur.
+
+Our team secured the First Position in this Hackathon and were awarded a cash prize of Rs.80,000 
+
+## About the App
+
+This crossplatform app(both Android and IOS) serves as a way for the police department and general public to use the Third Eye security system.
+
+This app gives Police the access to following Features:<br>
+- Easy to use UI
+- Local Camera Access
+- Access of all Sherlock features
+- Access to all the data that we collect and store
+
+This app gives the general public the access to following Features:
+- Easy to use UI
+- Lodge direct Reports for their Missing Vehicles
+- Track the status of their Report
+- Receive Notification if their missing/stolen vehicle is found somewhere
+
+### UI of the App:
 
 
-## Getting Started
+![Third Eye Final PPT](https://user-images.githubusercontent.com/77344616/176945548-fc9e233e-c554-451d-8b23-c53694dd09cf.png)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+If you wish to try the app yourself feel free to download the [APK](https://drive.google.com/drive/folders/19OKrBr9toKUyaF92qL82WvoFjlIaJ6-8?usp=sharing) from here.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
