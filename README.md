@@ -1,6 +1,6 @@
-# ThirdEyeApp
+# The Third-Eye App
 
-A new Flutter project.
+This app was submitted as a part of the final presentation given by my team (Rinav Gupta, Vedansh Arun and Kartik Bagri) in the countries first one of a kind CyberSecurity Hackathon - Hackmanthan organized by Chhattisgarh Police in collaboration with IIIT Naya Raipur.
 
 ## Getting Started
 
