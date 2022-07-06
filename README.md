@@ -1,5 +1,8 @@
 # The Third-Eye App
 
+[![Youtube Video](https://img.youtube.com/vi/Lijxc6lu2zA/0.jpg)](https://www.youtube.com/watch?v=Lijxc6lu2zA)
+
+
 #### What is Third Eye?
 With just one system that is simple to use and intuitive for both the police authority and the public, _**Third eye**_ is a decentralised and distributed cutting-edge security protocol that uses deep learning and artificial intelligence to track motor vehicles and Criminals via a modern CCTV network using Automated License Plate Recognition and real-time GPS tracking.
 
