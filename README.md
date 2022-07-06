@@ -35,3 +35,11 @@ This app gives the general public the access to following Features:
 
 If you wish to try the app yourself feel free to download the [APK](https://drive.google.com/drive/folders/19OKrBr9toKUyaF92qL82WvoFjlIaJ6-8?usp=sharing) from here.
 
+## Third-Eye in News
+
+Third-Eye was featured in multiple newspapers and articles on news websites<br>
+
+<img width="400" alt="WhatsApp Image 2022-06-30 at 2 08 57 PM" src="https://user-images.githubusercontent.com/77344616/177614533-f6ac56eb-1004-4c80-946e-f23c438d350d.jpeg">
+<img width="400" alt="Screenshot 2022-07-06 232938" src="https://user-images.githubusercontent.com/77344616/177614543-dde524b5-0d76-47ac-8732-29c479a42df6.png">
+
+Link to [Jantaserishta website](https://jantaserishta.com/local/chhattisgarh/hackmanthan-engineering-students-model-gets-first-prize-1339321) featuring Third-eye 
