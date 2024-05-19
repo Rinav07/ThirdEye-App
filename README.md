@@ -45,8 +45,8 @@ Third-Eye was featured in multiple newspapers and articles on news websites<br>
 
 <img width="400" alt="WhatsApp Image 2022-06-30 at 2 08 57 PM" src="https://user-images.githubusercontent.com/77344616/177614533-f6ac56eb-1004-4c80-946e-f23c438d350d.jpeg">
 <img width="400" alt="Screenshot 2022-07-06 232938" src="https://user-images.githubusercontent.com/77344616/177614543-dde524b5-0d76-47ac-8732-29c479a42df6.png">
-<img width="503" alt="NavBharat-June-30-2022-Hackmanthan" src="https://github.com/Rinav07/ThirdEye-App/assets/77344616/8e55a70c-65e9-49e9-8f35-13e9ff69eba2">
-<img width="503" alt="NavBharat-June-30-2022-Hackmanthan" src="https://github.com/Rinav07/ThirdEye-App/assets/77344616/b11c0807-74c5-4598-8616-443715c11b3e">
+<img width="400" alt="NavBharat-June-30-2022-Hackmanthan" src="https://github.com/Rinav07/ThirdEye-App/assets/77344616/8e55a70c-65e9-49e9-8f35-13e9ff69eba2">
+<img width="400" alt="NavBharat-June-30-2022-Hackmanthan" src="https://github.com/Rinav07/ThirdEye-App/assets/77344616/b11c0807-74c5-4598-8616-443715c11b3e">
 
 
 Link to [Jantaserishta website](https://jantaserishta.com/local/chhattisgarh/hackmanthan-engineering-students-model-gets-first-prize-1339321) featuring Third-eye 
